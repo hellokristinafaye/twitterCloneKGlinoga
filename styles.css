@@ -14,3 +14,16 @@ body {
     align-items: center;
     cursor: pointer;
 }
+
+.sidebarOption .material-symbols-outlined, .fa-twitter  {
+    padding: 20px;
+    /* background-color: pink; */
+}
+
+/* .fa-twitter {
+    padding: 20px;
+} */
+
+/* k we did a pretty good job debugging the above rule (the new classes for Google Fonts didn't match the tutorial) but I'm getting really tired and for some reason adding a third class to this rule breaks it???  */
+/* Ok just tried a little bit - it does need the comma on line 18, but doesn't need a second one??? */
+/* anyway, looks like the tutorial now. let's pause for the night and come back tomorrow <3  11:08 in tutorial*/
