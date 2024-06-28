@@ -101,3 +101,21 @@ body {
     font-size: 20px;
     font-weight: 800;
 }
+
+/* disappearing the scroll bar code.  doesnt' seem super necessary b/c it doesn't have a scroll bar?? But we'll keep it in comments anyway just to have */
+
+/* .feed::-webkit-scrollbar {
+    display: none;
+}
+
+.feed {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+} */
+
+/* tweet box */
+
+.tweetbox__input img {
+    border-radius: 50%;
+    height: 40px;
+}
