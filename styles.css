@@ -135,3 +135,11 @@ body {
     display: flex;
     padding: 20px;
 }
+
+.tweetbox__input input {
+    flex: 1;
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+}
