@@ -78,3 +78,12 @@ body {
     color: var(--twitter-color);
     font-size: 30px;
 }
+
+/* feed */
+
+.feed {
+    flex: .5;
+    border-right: 1px solid var(--twitter-background);
+    min-width: fit-content;
+    overflow-y:scroll;
+}
