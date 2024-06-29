@@ -164,3 +164,10 @@ body {
     height: 40px;
 }
 /* the above is a slight diversion from tutorial - the img wasn't accepting the class from its parent div, so after some debugging we added the img selector to this class. */
+
+.post {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid var(--twitter-background);
+    padding-bottom: 10px;
+}
