@@ -207,3 +207,8 @@ body {
     margin-bottom: 10px;
     font-size: 15px;
 }
+
+.post__body {
+    flex: 1;
+    padding: 10px;
+}
