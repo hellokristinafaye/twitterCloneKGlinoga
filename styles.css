@@ -171,3 +171,11 @@ body {
     border-bottom: 1px solid var(--twitter-background);
     padding-bottom: 10px;
 }
+
+/* pausing here for the morning so we can do CodeWars 6/29, 33:06 in the tutorial */
+
+.post__body img {
+    width: 450px;
+    object-fit: contain;
+    border-radius: 20px; 
+}
