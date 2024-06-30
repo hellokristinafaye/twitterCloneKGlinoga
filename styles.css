@@ -212,3 +212,7 @@ body {
     flex: 1;
     padding: 10px;
 }
+
+.post__avatar {
+    padding: 20px;
+}
