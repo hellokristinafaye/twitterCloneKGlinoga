@@ -104,14 +104,14 @@ body {
 
 /* disappearing the scroll bar code.  doesnt' seem super necessary b/c it doesn't have a scroll bar?? But we'll keep it in comments anyway just to have */
 
-/* .feed::-webkit-scrollbar {
+.feed::-webkit-scrollbar {
     display: none;
-}
+} 
 
 .feed {
     -ms-overflow-style: none;
     scrollbar-width: none;
-} */
+} 
 
 /* 6/27/24 originally written */
 /* tweet box */
@@ -216,3 +216,4 @@ body {
 .post__avatar {
     padding: 20px;
 }
+
