@@ -179,3 +179,9 @@ body {
     object-fit: contain;
     border-radius: 20px; 
 }
+
+.post__footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
